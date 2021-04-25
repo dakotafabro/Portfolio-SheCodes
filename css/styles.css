@@ -104,3 +104,14 @@ p {
   background: none;
   text-align: left;
 }
+
+@media (max-width: 576px) {
+  .center-btn-sm {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .small-font-sm {
+    font-size: 65px;
+  }
+}
